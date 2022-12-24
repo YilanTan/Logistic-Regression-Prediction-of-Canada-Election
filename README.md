@@ -1,6 +1,11 @@
 # Logistic-Regression-Prediction-of-Canada-Election
 Prediction of Individual Characteristic Shape Voting Preference for Liberal Party by Logistic Regression
 
+   - Logistic-Regression-Prediction-of-Canada-Election.Rmd: Original code of our report  
+   - Logistic-Regression-Prediction-of-Canada-Election.pdf: Final report    
+   - ces2019-phone_clean.csv: Raw data  
+   - gss_clean.csv: Raw data  
+   
 ## Introduction
 
 This report is a study on the prediction of the outcome of the election accurately. Many companies, government organizations, and agents built-up models, trying to find the relationship between voters' preference and other factors.
